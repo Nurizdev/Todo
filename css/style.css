@@ -1,0 +1,59 @@
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+
+
+.input{
+    width: 200px;
+    border-radius: 5px;
+    outline: none;
+    border: 3px solid gray;
+}
+.add{
+    background: rgb(138, 138, 248);
+    border-radius: 3px;
+    border: none;
+    padding: 3px 20px;
+}
+
+li{
+    list-style: none;
+    width:200px ;
+    padding:5px 0 ;
+    border: 2px solid grey;
+    border-radius: 5px;
+    margin: 5px;
+
+
+}
+
+ul{
+    font-family: sans-serif;
+}
+
+
+.delBtn{
+border-radius: 30px;
+border: none;
+font-size: 10px;
+font-weight: 500;
+margin-left: 20px;
+background: orange;
+padding: 3px 10px;
+
+
+}
+.editBtn{
+    border-radius: 30px;
+    border: none;
+    font-size: 10px;
+    font-weight: 500; 
+    background: orange;
+padding: 3px 15px;
+margin-left: 10px;
+
+}
